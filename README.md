@@ -2,45 +2,13 @@
 
 NestJS + yarn berry
 
-## Installation
-
-```bash
-$ yarn install
-```
-
-## Running the app
-
-```bash
-# development
-$ yarn run start
-
-# watch mode
-$ yarn run start:dev
-
-# production mode
-$ yarn run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
-```
-
 # Contents
 
-1. [Pipe]()
+- [yarn-berry로 NestJS 시작하기](https://github.com/YangGwangSeong/nestjs-yarnberry/docs/starter-yarn-berry.md)
 
 # Library
 
-1. [yarn-berry로 NestJS 시작하기](https://www.npmjs.com/package/cross-env)
+1. [cross-env](https://www.npmjs.com/package/cross-env)
 
 ```bash
 $ yarn add cross-env
