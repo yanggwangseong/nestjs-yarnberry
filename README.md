@@ -40,7 +40,7 @@ $ yarn run test:cov
 
 # Library
 
-1. [cross-env](https://www.npmjs.com/package/cross-env)
+1. [yarn-berry로 NestJS 시작하기](https://www.npmjs.com/package/cross-env)
 
 ```bash
 $ yarn add cross-env
