@@ -7,6 +7,7 @@ NestJS
 # Contents
 
 - [yarn-berry로 NestJS 시작하기](https://github.com/YangGwangSeong/nestjs-yarnberry/blob/main/docs/starter-yarn-berry/starter-yarn-berry.md)
+- [vscode nestjs code snippet](https://github.com/YangGwangSeong/nestjs-yarnberry/blob/main/docs/vscode-nestjs-snippet/vscode-nestjs-snippet.md)
 - [console.log말고 Debugger 쓰자](https://github.com/YangGwangSeong/nestjs-yarnberry/blob/main/docs/use-debugger/use-debugger.md)
 - [pipe]
 - [decorator]
