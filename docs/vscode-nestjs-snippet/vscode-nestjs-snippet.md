@@ -31,5 +31,20 @@
       ""
     ],
     "description": "NestJS-Controller-Snippet"
+  },
+  "NestJS-Module": {
+    "prefix": "nsmo",
+    "body": [
+      "import { Module } from '@nestjs/common';",
+      "",
+      "@Module({",
+      "	imports: [],",
+      "	controllers: [],",
+      "	providers: [],",
+      "	exports: [],",
+      "})",
+      "export class ${TM_FILENAME_BASE/([a-z]+)([-.])?([a-z]+)?/${1:/pascalcase}${3:/pascalcase}/} {}"
+    ],
+    "description": "NestJS-Module-Snippet"
   }
 ```
