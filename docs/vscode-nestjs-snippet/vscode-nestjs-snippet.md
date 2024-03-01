@@ -47,4 +47,17 @@
     ],
     "description": "NestJS-Module-Snippet"
   }
+  "NestJS-Pipe": {
+    "prefix": "nspi",
+    "body": [
+      "import { ArgumentMetadata, Injectable, PipeTransform } from '@nestjs/common';",
+      "",
+      "@Injectable()",
+      "export class ${TM_FILENAME_BASE/([a-z]+)([-.])?([a-z]+)?/${1:/pascalcase}${3:/pascalcase}/} implements PipeTransform {",
+      "	transform(value: any, metadata: ArgumentMetadata) {}",
+      "}",
+      ""
+    ],
+    "description": "NestJS-Pipe-Snippet"
+  }
 ```
